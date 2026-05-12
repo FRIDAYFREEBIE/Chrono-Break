@@ -111,7 +111,7 @@ OnApplied()
 - Used UML diagrams to visualize and share gameplay architecture with teammates.
 - Gained collaborative workflow experience using Git Fork, including branch strategies and Unreal Asset conflict resolution.
 
-# 🎥 Skill Test Videos
+# 🎥 Skill Test Videos (YouTube)
 
 ## ⚔️ Zero Hour
 <p align="center">
