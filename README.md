@@ -45,21 +45,24 @@
 
 ## 🔹 Combat System Architecture
 
-Designed the combat system using Unreal Engine’s Gameplay Ability System(GAS).
+<p align="center">
+  <img src="./Image/UML1.png" width="900">
+</p>
 
+Designed the combat system using Unreal Engine’s Gameplay Ability System(GAS).
 TurnManager controls turn flow,
 while GameplayAbilities handle skill execution.
 
 AbilitySystemComponent and AttributeSet manage
 damage calculations and gameplay states.
 
-<p align="center">
-  <img src="./Image/UML1.png" width="900">
-</p>
-
 ---
 
 ## 🔹 SkillBase Skill Architecture
+
+<p align="center">
+  <img src="./Image/UML2.png" width="900">
+</p>
 
 Integrated all runtime skill execution data into `FCBSkillContext`
 and designed `UCBGA_SkillBase` to handle common skill execution flow.
@@ -75,13 +78,17 @@ SkillDataAsset
 → UCBGA_SkillBase  
 → ApplyTagToTarget  
 
-<p align="center">
-  <img src="./Image/UML2.png" width="900">
-</p>
-
 ---
 
 ## 🔹 GameplayTag-Based Status Effect System
+
+<p align="center">
+  <img src="./Image/UML3.png" width="900">
+</p>
+
+<p align="center">
+  <img src="./Image/UML4.png" width="900">
+</p>
 
 Designed a data-driven status effect system using GameplayTags and GameplayEffects.
 
@@ -92,14 +99,6 @@ while each effect inherits from `UCBTagEffectBase`.
 OnApplied()
 → OnTurnTick()
 → OnRemoved()
-
-<p align="center">
-  <img src="./Image/UML3.png" width="900">
-</p>
-
-<p align="center">
-  <img src="./Image/UML4.png" width="900">
-</p>
 
 ---
 
