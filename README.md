@@ -46,7 +46,7 @@
 ## 🔹 Combat System Architecture
 
 <p align="center">
-  <img src="./Image/UML1.png" width="900">
+  <img src="./Image/UML_1.png" width="700">
 </p>
 
 Designed the combat system using Unreal Engine’s Gameplay Ability System(GAS).
@@ -61,7 +61,7 @@ damage calculations and gameplay states.
 ## 🔹 SkillBase Skill Architecture
 
 <p align="center">
-  <img src="./Image/UML2.png" width="900">
+  <img src="./Image/UML_2.png" width="700">
 </p>
 
 Integrated all runtime skill execution data into `FCBSkillContext`
@@ -83,11 +83,11 @@ SkillDataAsset
 ## 🔹 GameplayTag-Based Status Effect System
 
 <p align="center">
-  <img src="./Image/UML3.png" width="900">
+  <img src="./Image/UML_3.png" width="700">
 </p>
 
 <p align="center">
-  <img src="./Image/UML4.png" width="900">
+  <img src="./Image/UML_4.png" width="700">
 </p>
 
 Designed a data-driven status effect system using GameplayTags and GameplayEffects.
