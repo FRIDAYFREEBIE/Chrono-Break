@@ -110,3 +110,41 @@ OnApplied()
 - Improved maintainability and collaboration efficiency by refactoring Blueprint-heavy systems into C++.
 - Used UML diagrams to visualize and share gameplay architecture with teammates.
 - Gained collaborative workflow experience using Git Fork, including branch strategies and Unreal Asset conflict resolution.
+
+# 🎥 Skill Test Videos
+
+## ⚔️ Zero Hour
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=WNjzdvI6RSM">
+    <img src="https://img.youtube.com/vi/WNjzdvI6RSM/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
+---
+
+## ⏳ Time Echo
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=KdlDH5MvxLg">
+    <img src="https://img.youtube.com/vi/KdlDH5MvxLg/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
+---
+
+## ⚡ Entropy Sink
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=biSZbOrcxq8">
+    <img src="https://img.youtube.com/vi/biSZbOrcxq8/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
+---
+
+## 🕒 Chrono Shift
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=blbhYtTdGug">
+    <img src="https://img.youtube.com/vi/blbhYtTdGug/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
+---
